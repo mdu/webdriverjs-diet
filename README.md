@@ -32,7 +32,7 @@ java -jar node_modules/webdriverjs/bin/selenium-server-standalone-2.31.0.jar
 
 You can use any nodejs test framework as well as any BDD/TDD assertion library.
 
-**example using [Mocha](http://visionmedia.github.com/mocha/) and [Chai](http://chaijs.com/)**
+**example using [Mocha](http://mochajs.org/) and [Chai](http://chaijs.com/)**
 
 ```js
 describe('my webdriverjs tests', function(){
